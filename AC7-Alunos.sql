@@ -1,5 +1,6 @@
 --Adicionando Alunos a tabela ALUNOS--
 
+
 INSERT INTO ALUNO(IDUSUARIO,NOME,EMAIL,CELULAR,RA) 
     VALUES(1,'GILSON FERNANDES ALMEIDA','gf_almeida@impacta.com.br','9234131243','1501375');
 
